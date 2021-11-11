@@ -1,5 +1,5 @@
 jupyter
 matplotlib
 numpy
-
+git+git://github.com/mkrphys/ipython-tikzmagic.git
 
